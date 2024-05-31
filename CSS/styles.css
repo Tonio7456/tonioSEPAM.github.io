@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+.textbold{
+    color: rgb(44, 0, 44);
+    background-color: #fee2ff;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.image{
+    align-content: center;
+    align-items: center;
+}
